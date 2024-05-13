@@ -1,7 +1,80 @@
-li{
+*{
+    font-family: quicksand;
+}
+
+
+
+
+ul li{
     list-style: none;
     font-size: 30px;
     font-style: italic;
     color: blue;
     text-align: center;
 }
+ol li{
+    font-family: poppins,serif;
+}
+a{
+    text-decoration:none ;
+    color: black;
+    font-family: quicksand, serif;
+    font-size: 20px;
+    
+}
+.one, .two, .three{
+width: 150px;
+height: 150px;
+border: 1px solid;
+margin-bottom: 10px;
+}
+.one{
+    background-color: yellow;
+}
+.two{
+    background-color: green;
+    visibility: hidden;
+}
+.three{
+    background-color: brown;
+}
+a:hover{
+
+    text-decoration: underline;
+    font-weight: bold;
+    color: tomato;
+    font-size: 50px;
+    transition: 0.5s ease-in;
+}
+.solomon:hover{
+    text-decoration
+    height: none;
+    font-weight: bold;
+    color: tomato;
+    font size: 50px;
+    
+}
+
+    image{
+        height: none;
+        width: 500;
+    }
+    #second img{
+        height: 700px;
+        width: 700px;
+    }
+    h3,p{
+        color: red;
+        text-align: right;
+        border: 1px dotted green;
+        border-radius: 10px;
+        padding: 30px 40px 50px 60px;
+        margin: 50px;
+        margin: ;
+    }
+        
+        width : 700px
+    
+
+
+
